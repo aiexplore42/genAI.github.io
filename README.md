@@ -1,3 +1,3 @@
 
-Welcome to the deep AI project! 
+Welcome to deep AI project! 
 
