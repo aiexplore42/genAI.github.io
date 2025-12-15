@@ -1,3 +1,3 @@
 
-Welcome to the AI Innovation** project! 
+Welcome to the deep AI project! 
 
